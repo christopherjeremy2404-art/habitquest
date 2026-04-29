@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "habitQuest",
+    "name": "Game of life Panel",
     "slug": "habitQuest",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -13,7 +13,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
+        "backgroundColor": "#0404d",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
         "backgroundImage": "./assets/images/android-icon-background.png",
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
@@ -50,6 +50,7 @@
       "eas": {
         "projectId": "c14f8595-e8c9-4e48-b61a-503c527afcad"
       }
-    }
+    },
+    "owner": "jexx.z4"
   }
 }
